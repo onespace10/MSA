@@ -15,7 +15,7 @@ $ git push
 $ touch README.md
 $ vi README.md
 $ git add -A
-$ git commit -m "From ubuntu"
+$ git commit -m "Update README.md"
 $ git push
 $ pwd
 /c/Users/user/MSA
@@ -28,10 +28,9 @@ drwxr-xr-x 1 user 197121  0  6월 25 18:13 .git/
 -rw-r--r-- 1 user 197121 51  6월 25 18:13 README.md
 drwxr-xr-x 1 user 197121  0  6월 25 18:09 test2/
 ```
-'''
-$git add –A <---All
-$git commit –m “add a” <-- add a
-$git push <-- Ubuntu upload, git web download
-$git pull <-- git web upload, Ubuntu download
-
-'''
+```
+$git add –A <---All
+$git commit –m “add a” <--- add a
+$git push <--- Ubuntu upload, git web download
+$git pull <--- git web upload, Ubuntu download
+```
