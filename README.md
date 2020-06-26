@@ -15,7 +15,7 @@ $ git push
 $ touch README.md
 $ vi README.md
 $ git add -A
-$ git commit -m "README.md added"
+$ git commit -m "From ubuntu"
 $ git push
 $ pwd
 /c/Users/user/MSA
